@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tacco</h1>
 <h3 align="center">A passionate developer & AI enthusiast</h3>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=fif-otomotif&label=Profile%20views&color=0e75b6&style=flat" alt="fif-otomotif" />
-  </a>
-</p>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:fif-otomotif?theme=moebooru-h&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
 
 <p align="center">
   <i>I'm a developer who loves building complex automation systems and experimenting with Local AI and Computer Vision.</i>
