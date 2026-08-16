@@ -92,7 +92,7 @@
   <tr>
     <td width="33%"></td>
     <td align="center" width="33%">
-      <h3>🌀 Custom Radial Encoding System</h3>
+      <h3>🌀 Radial code system</h3>
       <br>
       <picture>
         <img src="./assets/radial_animated.svg" width="160" alt="Radial QR Code" />
