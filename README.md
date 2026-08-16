@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <i>I'm a developer who loves building complex automation systems, crafting custom game engines, and experimenting with Local AI and Computer Vision.</i>
+  <i>I'm a developer who loves building complex automation systems and experimenting with Local AI and Computer Vision.</i>
 </p>
 
 <p align="center">
@@ -30,7 +30,6 @@
 
 <h2 align="center">🐍 Projects & Skills Showcase</h2>
 <ul>
-  <li><b>Custom Game Engines:</b> Built 2D game rendering engines entirely from scratch, demonstrating deep knowledge of game loops, rendering optimization, and system architecture. 🎮🖥️</li>
   <li><b>Mega Automation Bots:</b> Engineered highly complex automation bots for various MMO strategy games, chess platforms, and algorithmic puzzles using advanced pathfinding and state machines. 🤖🕹️</li>
   <li><b>Advanced Machine Learning & AI:</b> Deployed and integrated heavy local AI models including LLMs (7B parameters), Convolutional Neural Networks (CNNs) for OCR, and custom NLP implementations. 🧠🦾</li>
   <li><b>Rich Desktop Applications:</b> Developed complex, theme-aware GUI applications for productivity and hardware monitoring with advanced features like local font parsing and real-time data visualization. 🪟✨</li>
