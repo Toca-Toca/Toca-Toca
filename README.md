@@ -90,14 +90,17 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td width="33%"></td>
+    <td align="center" width="33%">
+      <h3>🌀 Custom Radial Encoding System</h3>
       <br>
       <picture>
-        <img src="./assets/radial_animated.svg" width="220" alt="Radial QR Code" />
+        <img src="./assets/radial_animated.svg" width="160" alt="Radial QR Code" />
       </picture>
-      <h3>🌀 Custom Radial Encoding System</h3>
+      <br><br>
       <p>I built my own visual encoding system from scratch! It encodes data into a circular pattern of colored nodes (Green=1, Red=0) structured in concentric rings. It features a dynamic marker system, checksum parity, and a decoder that uses <b>OpenCV</b> to calibrate orientation via an anchor ring, read metadata, and extract the encoded bytes. The animation above encodes my name <b>"Tacco"</b>.</p>
     </td>
+    <td width="33%"></td>
   </tr>
 </table>
 
