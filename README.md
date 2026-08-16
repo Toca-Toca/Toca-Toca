@@ -10,30 +10,32 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Tacco
-age: <!-- AGE:START -->15<!-- AGE:END -->
-location: Surabaya, Indonesia 🇮🇩
-role: Self-Taught Developer & AI Enthusiast
+<div align="center">
 
-currently_learning:
-  - Machine Learning & Artificial Intelligence
-  - Computer Vision & Image Processing
-  - Cybersecurity & Ethical Hacking
-  - IoT & Embedded Systems (Arduino)
+🎂 **<!-- AGE:START -->15<!-- AGE:END --> years old** &nbsp;·&nbsp; 📍 **Surabaya, Indonesia** 🇮🇩
 
-interests:
-  - Building complex automation systems
-  - Experimenting with Local AI models
-  - Creating rich desktop applications
-  - Exploring hardware-software integration
+*Self-Taught Developer & AI Enthusiast*
 
-fun_facts:
-  - 🤖 Started coding to automate games, stayed for the AI
-  - 🧠 Deployed local LLMs with 7B+ parameters on my own machine
-  - 🎮 I build bots that solve puzzles better than I can
-  - ⚡ I believe the best way to learn is to build something crazy
-```
+</div>
+
+<blockquote>
+
+💬 *I’m a developer who loves building complex automation systems and experimenting with Local AI and Computer Vision. I started coding to automate games — stayed for the AI.*
+
+</blockquote>
+
+**🌱 Currently Learning**
+
+- 🤖 Machine Learning & Artificial Intelligence
+- 👁️ Computer Vision & Image Processing
+- 🔐 Cybersecurity & Ethical Hacking
+- 📡 IoT & Embedded Systems (Arduino)
+
+**⚡ Fun Facts**
+
+- 🧠 Deployed local LLMs with **7B+ parameters** on my own machine
+- 🎮 I build bots that solve puzzles better than I can
+- 🛠️ I believe the best way to learn is to **build something crazy**
 
 <div align="center">
   <a href="https://instagram.com/i.1icikiwir" target="_blank" rel="noreferrer">
