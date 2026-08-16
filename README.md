@@ -19,18 +19,18 @@
 
 <br/>
 
-<h3 align="left">🐍 My Python Projects & Skills Showcase</h3>
+<h3 align="left">🐍 My Real Projects & Skills Showcase</h3>
 <p align="left">
-  Based on the secret lab in my <code>D:\Drive\PyCharmMiscProject</code>, here are some cool Python projects I've built:
+  Welcome to my true tech stack! Based on the <code>D:\cam</code> lab, here are some of the advanced Python (and multi-language) projects I've built:
 </p>
 <ul>
-  <li><b>Hacker Mode Camera Filter:</b> An advanced OpenCV project (<code>hengker.py</code>) featuring glitch effects, scan lines, simple motion tracking, edge detection, and full facial recognition (Face, Eyes, Smile)! 🕵️‍♂️💻</li>
-  <li><b>Minecraft Style Face Tracker:</b> A real-time face tracking script (<code>mcp.py</code>) that detects faces and overlays a floating Minecraft-style nickname right above the head using OpenCV and PIL. 🎮✨</li>
-  <li><b>WebRTC Video Call App:</b> A fully functional peer-to-peer video streaming app (<code>vc.py</code>) built with Flask, Socket.IO, and WebRTC. Supports room creation and real-time video chat. 📞🌐</li>
-  <li><b>AI Chat Bots:</b> An interactive conversation simulation (<code>chatAi.py</code>) using external AI APIs where two personas dynamically converse with each other via prompt engineering! 🤖💬</li>
+  <li><b>Custom Python Game Engines:</b> Built from scratch! Check out my <code>pixelpy_engine</code> and <code>visualpy_engine</code>, demonstrating deep knowledge of rendering and game loops in Python. 🎮🖥️</li>
+  <li><b>Mega Automation Bots:</b> I write comprehensive bots for games and platforms including <code>screeps_mega_bot</code>, <code>bitburner_mega_bot</code>, <code>lichess_bot</code> (Chess), <code>sudoku_bot</code>, and <code>roblox-connector</code>. 🤖🕹️</li>
+  <li><b>Advanced Machine Learning & AI:</b> Heavy lifting with local AI! I've worked with <code>qwen2.5-7b-instruct-onnx</code> models, <code>emnist_cnn</code>, <code>face_detection_yunet</code>, and custom BERT implementations (<code>bert.py</code>). 🧠🦾</li>
+  <li><b>Rich Desktop Applications:</b> Built complex GUI applications like <code>omni.py</code> and <code>diary.py</code> with PyQt5/Tkinter, featuring dynamic theming and local font/metadata parsing. 🪟✨</li>
 </ul>
 <p align="left">
-  <b>Python Skills demonstrated:</b> Computer Vision (OpenCV, Haarcascades), Backend Web Frameworks (Flask, Socket.IO), WebRTC (P2P video streaming), Image Processing (PIL, Numpy), REST API Integration (Requests), and Prompt Engineering.
+  <b>Skills demonstrated:</b> Machine Learning & Deep Learning (PyTorch, ONNX, CNNs, NLP/BERT), Advanced Bot Automation, Custom Engine Development, PyQt5/CustomTkinter GUI, Computer Vision, and full-stack software architecture.
 </p>
 
 <br/>
