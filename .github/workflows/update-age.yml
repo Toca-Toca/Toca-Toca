@@ -1,0 +1,61 @@
+name: Update Age in README
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate and update age
+        run: |
+          BIRTH_YEAR=2010
+          BIRTH_MONTH=10
+          BIRTH_DAY=3
+
+          CURRENT_YEAR=$(date -u +%Y)
+          CURRENT_MONTH=$(date -u +%m)
+          CURRENT_DAY=$(date -u +%d)
+
+          AGE=$((CURRENT_YEAR - BIRTH_YEAR))
+
+          # If birthday hasn't occurred yet this year, subtract 1
+          if [ "$CURRENT_MONTH" -lt "$BIRTH_MONTH" ] || { [ "$CURRENT_MONTH" -eq "$BIRTH_MONTH" ] && [ "$CURRENT_DAY" -lt "$BIRTH_DAY" ]; }; then
+            AGE=$((AGE - 1))
+          fi
+
+          echo "Calculated age: $AGE"
+
+          # Replace age between markers in README.md
+          sed -i "s/<!-- AGE:START -->.*<!-- AGE:END -->/<!-- AGE:START -->${AGE}<!-- AGE:END -->/" README.md
+
+          echo "AGE=$AGE" >> $GITHUB_ENV
+
+      - name: Check for changes
+        id: check
+        run: |
+          if git diff --quiet README.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No age change detected."
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Age updated to ${{ env.AGE }}!"
+          fi
+
+      - name: Commit and push
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🎂 Auto-update age to ${{ env.AGE }}"
+          git push

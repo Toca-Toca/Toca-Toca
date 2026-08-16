@@ -1,87 +1,145 @@
-<h1 align="center">Hi 👋, I'm Tacco</h1>
-<h3 align="center">A passionate developer & AI enthusiast</h3>
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:Toca-Toca?theme=moebooru-h&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Tacco;Developer+%7C+AI+Enthusiast+%7C+Builder" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <i>I'm a developer who loves building complex automation systems and experimenting with Local AI and Computer Vision.</i>
+  <img src="https://count.getloli.com/@:Toca-Toca?theme=moebooru-h&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
 </p>
 
-<div data-importer="socials" align="center">
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Tacco
+age: <!-- AGE:START -->15<!-- AGE:END -->
+location: Surabaya, Indonesia 🇮🇩
+role: Self-Taught Developer & AI Enthusiast
+
+currently_learning:
+  - Machine Learning & Artificial Intelligence
+  - Computer Vision & Image Processing
+  - Cybersecurity & Ethical Hacking
+  - IoT & Embedded Systems (Arduino)
+
+interests:
+  - Building complex automation systems
+  - Experimenting with Local AI models
+  - Creating rich desktop applications
+  - Exploring hardware-software integration
+
+fun_facts:
+  - 🤖 Started coding to automate games, stayed for the AI
+  - 🧠 Deployed local LLMs with 7B+ parameters on my own machine
+  - 🎮 I build bots that solve puzzles better than I can
+  - ⚡ I believe the best way to learn is to build something crazy
+```
+
+<div align="center">
   <a href="https://instagram.com/i.1icikiwir" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Toca-Toca" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
-###
+---
 
-<hr/>
+## 💻 Tech Stack
 
-<h2 align="center">💻 Tech Stack</h2>
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+<div align="center">
+
+#### Languages
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+
+#### Frameworks & Runtime
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+
+#### Tools & Platforms
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Arduino-%2300878F.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
 </div>
 
-###
+---
 
-<h2 align="center">🐍 Projects & Skills Showcase</h2>
-<ul>
-  <li><b>Mega Automation Bots:</b> Engineered highly complex automation bots for various MMO strategy games, chess platforms, and algorithmic puzzles using advanced pathfinding and state machines. 🤖🕹️</li>
-  <li><b>Advanced Machine Learning & AI:</b> Deployed and integrated heavy local AI models including LLMs (7B parameters), Convolutional Neural Networks (CNNs) for OCR, and custom NLP implementations. 🧠🦾</li>
-  <li><b>Rich Desktop Applications:</b> Developed complex, theme-aware GUI applications for productivity and hardware monitoring with advanced features like local font parsing and real-time data visualization. 🪟✨</li>
-</ul>
+## 🚀 Projects & Skills Showcase
 
-<hr/>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🤖 Mega Automation Bots</h3>
+      <p>Engineered highly complex automation bots for MMO strategy games, chess platforms, and algorithmic puzzles using advanced pathfinding algorithms and finite state machines.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🧠 Machine Learning & AI</h3>
+      <p>Deployed and integrated heavy local AI models including LLMs (7B parameters), Convolutional Neural Networks for OCR, and custom NLP implementations — all running locally.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🖥️ Rich Desktop Apps</h3>
+      <p>Developed complex, theme-aware GUI applications for productivity and hardware monitoring with features like local font parsing and real-time data visualization.</p>
+    </td>
+  </tr>
+</table>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Toca-Toca&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Toca-Toca&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Toca-Toca&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Toca-Toca&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+## 📊 GitHub Stats
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Toca-Toca&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
-<h2 align="center">🎮 Contribution Graph</h2>
 <div align="center">
-  <picture data-importer="pacman">
+  <img src="https://github-readme-stats.shion.dev/api?username=Toca-Toca&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Toca-Toca&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Toca-Toca&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Toca-Toca&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Toca-Toca&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" />
+</p>
+
+---
+
+## 🎮 Contribution Graph
+
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Toca-Toca/Toca-Toca/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Toca-Toca/Toca-Toca/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Toca-Toca/Toca-Toca/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/Toca-Toca/Toca-Toca/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
   </picture>
 </div>
 
-<h2 align="center">✍️ Random Dev Quote</h2>
+---
+
+## ✍️ Random Dev Quote
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ "The best way to predict the future is to build it." ✨</i>
 </p>
