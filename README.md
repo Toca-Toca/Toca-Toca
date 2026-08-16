@@ -72,6 +72,15 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=fif-otomotif&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
+<h2 align="center">🎮 Contribution Graph</h2>
+<div align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fif-otomotif/fif-otomotif/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fif-otomotif/fif-otomotif/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fif-otomotif/fif-otomotif/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  </picture>
+</div>
+
 <h2 align="center">✍️ Random Dev Quote</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
