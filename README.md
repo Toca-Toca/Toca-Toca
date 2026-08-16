@@ -48,6 +48,18 @@
 
 ---
 
+## 🌀 Custom Radial Signature
+
+<div align="center">
+  <picture>
+    <img src="./assets/radial_animated.svg" width="350" alt="Radial QR Code" />
+  </picture>
+  <br>
+  <i>My name <b>"Tacco"</b> encoded using my custom built Radial Encoding System. Each spinning ring stores data bits!</i>
+</div>
+
+---
+
 ## 💻 Tech Stack
 
 <div align="center">
