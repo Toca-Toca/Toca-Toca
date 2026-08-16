@@ -30,8 +30,9 @@
   <circle cx="113.0" cy="113.0" r="66.0" fill="none" stroke="#30363d" stroke-width="0.5" opacity="0.08"/>
   <circle cx="113.0" cy="113.0" r="84.0" fill="none" stroke="#30363d" stroke-width="0.5" opacity="0.08"/>
 
-  <!-- Ring 0: anchor (4 nodes) -->
+  <!-- Ring 0: anchor (4 nodes, 90s CW) -->
   <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 113.0 113.0" to="360 113.0 113.0" dur="90s" repeatCount="indefinite"/>
     <circle cx="113.00" cy="83.00" r="4.0" fill="#00FF41" opacity="0.85"/>
     <circle cx="143.00" cy="113.00" r="3.4" fill="#FF4444" opacity="0.85"/>
     <circle cx="113.00" cy="143.00" r="3.4" fill="#FF4444" opacity="0.85"/>

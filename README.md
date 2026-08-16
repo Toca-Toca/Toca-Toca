@@ -48,18 +48,6 @@
 
 ---
 
-## 🌀 Custom Radial Signature
-
-<div align="center">
-  <picture>
-    <img src="./assets/radial_animated.svg" width="350" alt="Radial QR Code" />
-  </picture>
-  <br>
-  <i>My name <b>"Tacco"</b> encoded using my custom built Radial Encoding System. Each spinning ring stores data bits!</i>
-</div>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -99,6 +87,16 @@
     <td align="center" width="33%">
       <h3>🖥️ Rich Desktop Apps</h3>
       <p>Developed complex, theme-aware GUI applications for productivity and hardware monitoring with features like local font parsing and real-time data visualization.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <br>
+      <picture>
+        <img src="./assets/radial_animated.svg" width="220" alt="Radial QR Code" />
+      </picture>
+      <h3>🌀 Custom Radial Encoding System</h3>
+      <p>I built my own visual encoding system from scratch! It encodes data into a circular pattern of colored nodes (Green=1, Red=0) structured in concentric rings. It features a dynamic marker system, checksum parity, and a decoder that uses <b>OpenCV</b> to calibrate orientation via an anchor ring, read metadata, and extract the encoded bytes. The animation above encodes my name <b>"Tacco"</b>.</p>
     </td>
   </tr>
 </table>
