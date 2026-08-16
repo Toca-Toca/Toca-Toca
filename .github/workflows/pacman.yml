@@ -1,0 +1,28 @@
+name: Generate Arcade Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs at 00:00 UTC every day
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Arcade Graph
+        uses: abozanona/pacman-contribution-graph@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble
+            pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble&color_snake=orange&color_dots=#bfd6f6&color_bg=#1d1f21&color_dots=#bfd6f6
+
+      - name: Push to pacman-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: pacman-output
+          build_dir: pacman-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
