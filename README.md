@@ -11,11 +11,13 @@
   <i>I'm a developer who loves building complex automation systems and experimenting with Local AI and Computer Vision.</i>
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/i.1icikiwir">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+<div data-importer="socials" align="center">
+  <a href="https://instagram.com/i.1icikiwir" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</p>
+</div>
+
+###
 
 <hr/>
 
