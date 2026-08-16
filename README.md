@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer & AI enthusiast</h3>
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:fif-otomotif?theme=moebooru-h&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Toca-Toca?theme=moebooru-h&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
@@ -55,29 +55,29 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=fif-otomotif&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Toca-Toca&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=fif-otomotif&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Toca-Toca&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fif-otomotif&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Toca-Toca&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fif-otomotif&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Toca-Toca&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=fif-otomotif&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Toca-Toca&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
 <h2 align="center">🎮 Contribution Graph</h2>
 <div align="center">
   <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fif-otomotif/fif-otomotif/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fif-otomotif/fif-otomotif/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fif-otomotif/fif-otomotif/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Toca-Toca/Toca-Toca/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Toca-Toca/Toca-Toca/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Toca-Toca/Toca-Toca/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
   </picture>
 </div>
 
