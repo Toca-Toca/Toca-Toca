@@ -12,17 +12,15 @@ jobs:
       contents: write
     steps:
       - name: Generate Arcade Graph
-        uses: abozanona/pacman-contribution-graph@v1
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble
-            pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble&color_snake=orange&color_dots=#bfd6f6&color_bg=#1d1f21
+          games: "puzzle-bobble"
 
       - name: Push to pacman-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output
-          build_dir: pacman-output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
