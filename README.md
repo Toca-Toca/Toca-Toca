@@ -12,7 +12,7 @@
 
 <div align="center">
 
-🎂 **<!-- AGE:START -->15<!-- AGE:END --> years old** &nbsp;·&nbsp; 📍 **Surabaya, Indonesia** 🇮🇩
+🎂 **<!-- AGE:START -->16<!-- AGE:END --> years old** &nbsp;·&nbsp; 📍 **Surabaya, Indonesia** 🇮🇩
 
 *Self-Taught Developer & AI Enthusiast*
 
