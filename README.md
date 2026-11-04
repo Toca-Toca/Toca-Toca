@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://count.getloli.com/@:Toca-Toca?theme=moebooru-h&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
+  <img src="https://count.getloli.com/@:Toca-Toca?theme=gelbooru-h&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
 </p>
 
 ---
